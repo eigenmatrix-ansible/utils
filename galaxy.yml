@@ -1,0 +1,8 @@
+namespace: eigenmatrix
+name: utils
+version: 0.0.1
+readme: README.md
+repository: https://github.com/eigenmatrix-ansible/utils
+authors:
+  - 'Johanna Dorothea Reichmann <transcaffeine@finallycoffee.eu>'
+
